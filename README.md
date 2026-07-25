@@ -9,4 +9,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Selvapandi-28/Java/tree/master/0066-plus-one) |
+| [3536-maximum-product-of-two-digits](https://github.com/Selvapandi-28/Java/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Selvapandi-28/Java/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
