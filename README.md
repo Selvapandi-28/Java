@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Selvapandi-28/Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Selvapandi-28/Java/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Selvapandi-28/Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Selvapandi-28/Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Selvapandi-28/Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Selvapandi-28/Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
