@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Selvapandi-28/Java/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/Selvapandi-28/Java/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Selvapandi-28/Java/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Selvapandi-28/Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvapandi-28/Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Selvapandi-28/Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Selvapandi-28/Java/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Selvapandi-28/Java/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
