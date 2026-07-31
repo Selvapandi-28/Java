@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Selvapandi-28/Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Selvapandi-28/Java/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Selvapandi-28/Java/tree/master/0075-sort-colors) |
 ## String
 |  |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Selvapandi-28/Java/tree/master/0089-gray-code) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Selvapandi-28/Java/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
