@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Selvapandi-28/Java/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/Selvapandi-28/Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Selvapandi-28/Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Selvapandi-28/Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Selvapandi-28/Java/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/Selvapandi-28/Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Selvapandi-28/Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Selvapandi-28/Java/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Selvapandi-28/Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Selvapandi-28/Java/tree/master/3536-maximum-product-of-two-digits) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Selvapandi-28/Java/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/Selvapandi-28/Java/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 ## Tree
 |  |
 | ------- |
@@ -99,4 +102,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Selvapandi-28/Java/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
