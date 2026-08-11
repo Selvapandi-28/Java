@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Selvapandi-28/Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/Selvapandi-28/Java/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Selvapandi-28/Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Selvapandi-28/Java/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/Selvapandi-28/Java/tree/master/0486-predict-the-winner) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Selvapandi-28/Java/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/Selvapandi-28/Java/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/Selvapandi-28/Java/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Selvapandi-28/Java/tree/master/1140-stone-game-ii) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Selvapandi-28/Java/tree/master/1510-stone-game-iv) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Selvapandi-28/Java/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
