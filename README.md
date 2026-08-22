@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Selvapandi-28/Java/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Selvapandi-28/Java/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Selvapandi-28/Java/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0258-add-digits) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Selvapandi-28/Java/tree/master/0096-unique-binary-search-trees) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Selvapandi-28/Java-LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
